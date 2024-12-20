@@ -1,8 +1,5 @@
 - Hi, I’m Mark
 - This is my Data Science and ML portfolio 📀
-
-- About me:
-- Pronouns: He/Him
 - BSc in Sports Science 🩸| Aarhus University (june 2022)
 - MSc in Human Physiology 🐀| Aarhus University (june 2024)
 - I’m currently learning Data Science 🧮 and ML ⚙️ (since sep. 2024)
